@@ -1,25 +1,25 @@
 <body>
 
 <style> 
-section= #a {
+id= #a {
   background-color: red;
 }
 </style>
 
 <style> 
-#b {
+id= #b {
   background-color: orange;
 }
 </style>
 
 <style> 
-#c {
+id=#c {
   background-color: gray;
 }
 </style>
 
 <style> 
-#d {
+id=#d {
   background-color: black;
 }
 </style>
