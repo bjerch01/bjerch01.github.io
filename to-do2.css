@@ -1,29 +1,36 @@
 <body>
 
+<section>
 <style> 
 id= #a {
   background-color: red;
 }
 </style>
+</section>
 
+<section>
 <style> 
 id= #b {
   background-color: orange;
 }
 </style>
+</section> 
 
+<section>
 <style> 
 id= #c {
   background-color: gray;
 }
 </style>
+</section>
 
+<section>
 <style> 
 id=#d {
   background-color: black;
 }
 </style>
-
+</section>
 
 
 
