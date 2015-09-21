@@ -6,11 +6,23 @@
 }
 </style>
 
+<style> 
+#b {
+  background-color: orange;
+}
+</style>
 
+<style> 
+#c {
+  background-color: gray;
+}
+</style>
 
-
-
-
+<style> 
+#d {
+  background-color: black;
+}
+</style>
 
 
 
@@ -24,3 +36,4 @@
 section {
   border : 5px solid black;
 }
+</body>
