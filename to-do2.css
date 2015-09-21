@@ -3,12 +3,26 @@
 <style> 
 .high { 
   background-color: Red;
+}
+</style>
 
+<style> 
+.medium { 
+  background-color: blue;
+}
+</style>
 
+<style> 
+.low { 
+  background-color: green;
+}
+</style>
 
-
-
-
+<style> 
+.done { 
+  background-color: gray;
+}
+</style>
 
 
 
