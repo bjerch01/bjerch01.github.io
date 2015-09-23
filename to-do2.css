@@ -1,35 +1,30 @@
-<body>
 
-
-<style> 
 ul#a {
   background-color: red;
 }
-</style>
 
 
 
-<style> 
+
+
 #b {
   background-color: orange;
 }
-</style>
  
 
 
-<style> 
+ 
 #c {
   background-color: gray;
 }
-</style>
 
 
-<section>
-<style> 
+
+ 
 #d {
   background-color: black;
 }
-</style>
+
 
 
 
@@ -43,4 +38,4 @@ ul#a {
 section {
   border : 5px solid black;
 }
-</body>
+
