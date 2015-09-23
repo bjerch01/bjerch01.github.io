@@ -1,28 +1,28 @@
 <body>
 
-<section>
+
 <style> 
 #a {
   background-color: red;
 }
 </style>
-</section>
 
-<section>
+
+
 <style> 
 #b {
   background-color: orange;
 }
 </style>
-</section> 
+ 
 
-<section>
+
 <style> 
 #c {
   background-color: gray;
 }
 </style>
-</section>
+
 
 <section>
 <style> 
@@ -30,7 +30,7 @@
   background-color: black;
 }
 </style>
-</section>
+
 
 
 
