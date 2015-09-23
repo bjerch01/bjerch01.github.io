@@ -23,6 +23,8 @@ ul#a {
  
 #d {
   background-color: black;
+  color: rgb(0-191-255) ;
+  
 }
 
 
@@ -35,7 +37,5 @@ ul#a {
 
 
 
-section {
-  border : 5px solid black;
-}
+
 
