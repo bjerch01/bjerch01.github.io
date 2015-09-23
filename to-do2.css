@@ -2,7 +2,7 @@
 
 <section>
 <style> 
-id= #a {
+#a {
   background-color: red;
 }
 </style>
@@ -10,7 +10,7 @@ id= #a {
 
 <section>
 <style> 
-id= #b {
+#b {
   background-color: orange;
 }
 </style>
@@ -18,7 +18,7 @@ id= #b {
 
 <section>
 <style> 
-id= #c {
+#c {
   background-color: gray;
 }
 </style>
@@ -26,7 +26,7 @@ id= #c {
 
 <section>
 <style> 
-id=#d {
+#d {
   background-color: black;
 }
 </style>
