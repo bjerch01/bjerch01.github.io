@@ -44,10 +44,21 @@
        }
   
 </style>
- 
+ <script>
+myBox = document.querySelector("#textbox")
        
-     
-   
+ </script>  
+ <script>
+myUl =document.querySelector("#tasklist")
+myUl.appendchild(myLi)
+myLi = classList.add(myPriority.value);
+myLi.appendchild(myInput)
+myLi.appendChild(myText)
+myInput = document.createElement("INPUT")
+myInput.type = "check"
+myText = document.createTextNode(myBox.value)
+</script>
+   </script>
    </head>
       <body>
 
@@ -65,7 +76,7 @@
   <option value="medium">Medium</option>
   <option value="low">Low</option>
 </select>
-<input type="Submit" value="Add">
+<button type="button">Add</button>
           </nav>
           <aside>
               <h2></h2>
