@@ -46,12 +46,11 @@
 </style>
  <body>
  <script>
-function createli() {
-  var x 
-  x= document.getElementId
-
-  
-  
+function outputname() {
+var x,y,name,a,b,answer;
+x=document.getElementById("form1") ;
+y=x.elements["list"].value;
+document.getElementById("demo").innerHTML=""+y+"<br>";
 }
 </script>
   
@@ -65,20 +64,21 @@ function createli() {
           <main>
           <nav>
  <h2>To Do App</h2> 
-<form>
- <input type="Add" value=" " id="textbox">
+<form id="form1">
+Task: <input name="list" type="text" size="20">
 </form>
+<button onclick="outputname()">Submit</button>
 <select>
   id="priority"
   <option value="high">High</option>
   <option value="medium">Medium</option>
   <option value="low">Low</option>
 </select>
-<button type="createli">Add</button>
+
           </nav>
           <aside>
-              <h2></h2>
-          </aside>
+              <ul id="demo"></ul>          
+</aside>
           </main>
       </body>
 </html>
